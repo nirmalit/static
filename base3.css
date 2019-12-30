@@ -1,0 +1,21 @@
+body{
+    background-image: url("back1.jpg");
+    background-size: auto;
+    background-position: left;
+    padding: 250px;
+}
+p{
+    font-family: "Times New Roman";
+    font-size: x-large;
+}
+#bb{
+    display: block;
+    width: 100%;
+    border: none;
+
+  background-color:lightsteelblue;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}

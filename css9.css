@@ -1,0 +1,30 @@
+body{
+    background-image:url("back1.jpg");
+  background-position: left;
+  padding: 190px;
+  background-size: auto;
+overflow: auto;
+
+
+
+}
+.button1{
+
+  display: block;
+  padding: 15px 25px;
+  font-size: 18px;
+ text-align: center;
+  /*cursor: pointer;*/
+ /* outline: none;*/
+  color: black;
+  background-color: lightsteelblue;
+
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0 9px #999;
+  width: 100%;}
+pre{
+  font-family: "Times New Roman";
+  font-size: x-large;
+
+}
